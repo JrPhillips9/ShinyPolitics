@@ -1,2 +1,1 @@
-# ShinyPolitics
-A Closer Look at Florida Election Results
+The State Of US Elections
