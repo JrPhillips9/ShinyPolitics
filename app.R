@@ -20,7 +20,7 @@ x = c("Hillary Clinton", "Donald Trump", "Others")
 t = list(size = 8, color = 'blue')
 colors <-
     c('rgb(211,94,96)', 'rgb(114,147,203)', 'rgb(144,103,167))')
-color_map <- c(trump = "blue", clinton = "red")
+color_map <- c(trump = "red", clinton = "blue")
 options(spinner.color.background = "#F5F5F5")
 states = c(
     "Alabama",
