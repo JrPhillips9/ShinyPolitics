@@ -16,7 +16,7 @@ library(shinyalert)
 library(shinycssloaders)
 
 
-x = c("Hillary Clinton", "Donald Trump", "Others")
+x = c("Donald Trump", "Hilary Clinton", "Others")
 t = list(size = 8, color = 'blue')
 colors <-
     c('rgb(211,94,96)', 'rgb(114,147,203)', 'rgb(144,103,167))')
